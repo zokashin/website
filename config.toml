@@ -79,17 +79,17 @@ googleAnalytics = ""
         [[params.services.list]]
             icon = "fa-calendar"
 			      title = "Scheduling"
-			      description = "Residential tenants can control runtime schedules while commercial facilities managers can centralize scheduling while allowing authorized employees to adjust temperatures as needed during business hours."
+			      description = "Residential tenants can control runtime schedules while commercial facilities managers can centralize scheduling to adjust temperatures as needed during business hours."
 			      
 			  [[params.services.list]]
             icon = "fa-exclamation-triangle"
-            title = "Fault detection"
+            title = "Fault Detection"
             description = "Our devices will tell you if your HVAC units are behaving abnormally and recommend appropriate courses of action to optimize efficiency and reduce costly equipment failures."
 
         [[params.services.list2]]
             icon = "fa-bolt"
             title = "Real Time Data"
-            description = "Our system delivers key operational insights in real time, providing actionable information to decisionmakers."
+            description = "Our system delivers key operational insights in real time, providing actionable information to decision makers."
             
         [[params.services.list2]]
             icon = "fa-wrench"

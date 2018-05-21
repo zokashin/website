@@ -74,17 +74,17 @@ googleAnalytics = ""
         [[params.services.list]]
             icon = "fa-tablet"
             title = "Centralized & Distributed Controls"
-            description = "Tenants can control their HVAC units from their smartphones, while controls can be also be centralized for commercial deployments."
+            description = "Tenants control their heating and cooling via smartphone, while management has centralized control over HVAC units in unfilled apartments and commercial settings."
 
         [[params.services.list]]
             icon = "fa-calendar"
 			      title = "Scheduling"
-			      description = "Residential tenants can control runtime schedules while commercial facilities managers can centralize scheduling to adjust temperatures as needed during business hours."
+			      description = "Management and tenants can set schedules for HVAC units, eliminating waste by up to 30%. Management can also set one-off schedules, so vacant units are conditioned for viewings."
 			      
 			  [[params.services.list]]
             icon = "fa-exclamation-triangle"
             title = "Fault Detection"
-            description = "Our devices will tell you if your HVAC units are behaving abnormally and recommend appropriate courses of action to optimize efficiency and reduce costly equipment failures."
+            description = "Our algorithms can tell if your HVAC units are behaving abnormally and recommend an appropriate course of action to optimize efficiency and reduce costly equipment failures."
 
         [[params.services.list2]]
             icon = "fa-bolt"
@@ -99,7 +99,7 @@ googleAnalytics = ""
         [[params.services.list2]]
         icon = "fa-industry"
         title = "OEM Integration"
-        description = "We work directly with your HVAC’s manufacturer to ensure your equipment is running at an optimal level."
+        description = "We work directly with your HVAC’s manufacturer to ensure your equipment is running according to spec."
             
        [[params.services.list3]]
         icon = "fa-plug"
@@ -109,7 +109,7 @@ googleAnalytics = ""
         [[params.services.list3]]
         icon = "fa-shopping-cart"
         title = "Marketplace"
-        description = "Find new maintenance service providers for long-term relationships, emergency situations, and anything in between."
+        description = "Find emergency repair technicians, permanent maintenance providers, and anything in between."
 
 
        [[params.services.list3]]
